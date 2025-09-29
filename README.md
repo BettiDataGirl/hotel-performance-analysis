@@ -3,7 +3,11 @@ This analysis was prepared for the DATA36 education platform’s December 2024 c
 ## I was awarded FIRST prize for this analysis.
 
 ## Dataset
-
+The analysis was conducted using 11 CSV files per hotel, covering 3 hotels in total. The dataset contains fresh, real-life data on hotel occupancy, realized bookings, customer searches, marketing campaigns, and the amount spent on each marketing channel.
+## Main questions
+- Analysis of marketing elements (sources, mediums, campaigns) and conversion performance.
+- Comprehensive analysis of search, booking, and occupancy data.
+- Based on search, booking, and occupancy data, is it possible to develop a warning system to monitor marketing costs and maximize occupancy while maintaining optimal pricing?
 ## Key Findings
 - Bookings and searches are mainly concentrated around holiday periods (school autumn break, Christmas/New Year) and weekends.
 - Booking window: Guests make reservations 3–4 months in advance. Two peaks exist: 2–3 days before booking and 96–97 days in advance.
