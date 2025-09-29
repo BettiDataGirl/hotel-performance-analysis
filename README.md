@@ -1,7 +1,7 @@
 ## I was awarded FIRST prize for the presentation and analysis.
 
 ## Complete data analyis of 3 hotels of MORGENS
-This analysis was prepared for the DATA36 education platform’s December 2024 challenge. My work was selected among the top 3 highest-rated analyses, which allowed me to present it in front of a jury of senior data scientists and an audience on December 7, 2024. 
+This analysis was prepared for the DATA36 education platform’s December 2024 challenge. My work was selected among the top 3 highest-rated analyses, which allowed me to present it in front of a jury of senior data scientists and an audience on December 11, 2024. 
 ## Dataset
 The analysis was conducted using 11 CSV files per hotel, covering 3 hotels in total. The dataset contains fresh, real-life data on hotel occupancy, realized bookings, customer searches, marketing campaigns, and the amount spent on each marketing channel.
 ## Main questions
