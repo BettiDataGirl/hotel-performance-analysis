@@ -1,5 +1,6 @@
 ## I was awarded FIRST prize for the presentation and analysis.
 ![Winner](Photo/fotoMorgens.JPG)
+<img src="Photo/fotoMorgens.JPG" alt="Analysis chart" width="500"/>
 ## Complete data analyis of 3 hotels of MORGENS
 This analysis was prepared for the DATA36 education platform’s December 2024 challenge. My work was selected among the top 3 highest-rated analyses, which allowed me to present it in front of a jury of senior data scientists and an audience on December 11, 2024. 
 ## Dataset
